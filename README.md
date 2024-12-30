@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a student driven by a passion for problem-solving and growth. With strong communication skills and a collaborative spirit, I thrive in team environments. I'm eager to seize opportunities to contribute and prove my abilities. I’m currently considering pursuing a master's in CS, which is why I’m seeking a 2025 summer internship. However, I am open to a full-time position if the opportunity is available.
+
 <!--
 **Kcruz28/kcruz28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
